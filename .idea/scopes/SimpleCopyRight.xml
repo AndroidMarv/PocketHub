@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="SimpleCopyRight" pattern="test:*..*||src:*..*||lib:*..*||src[PockHub]:*..*" />
+</component>
