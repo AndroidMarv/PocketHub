@@ -23,4 +23,4 @@ A mobile application using GitHub api to search through repositories. Filter res
     - Recycler view with card view should be used to display the repo list.
     - Clicking on a item from the repo list it should display the detailed description of the repo in a new Activity (Repo Details).
     
-![GNU GPL v3][https://www.gnu.org/graphics/gplv3-127x51.png]
+ ![GNU GPL v3](https://www.gnu.org/graphics/gplv3-127x51.png)
